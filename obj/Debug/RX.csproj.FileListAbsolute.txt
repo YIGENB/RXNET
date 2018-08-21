@@ -3,3 +3,8 @@ E:\我得文档\myDll\net版本\RX\RX\bin\Debug\RX.pdb
 E:\我得文档\myDll\net版本\RX\RX\obj\Debug\RX.csprojResolveAssemblyReference.cache
 E:\我得文档\myDll\net版本\RX\RX\obj\Debug\RX.dll
 E:\我得文档\myDll\net版本\RX\RX\obj\Debug\RX.pdb
+E:\我得文档\myDll\net版本\RX\RX\RXNET\obj\Debug\RX.csprojResolveAssemblyReference.cache
+E:\我得文档\myDll\net版本\RX\RX\RXNET\obj\Debug\RX.dll
+E:\我得文档\myDll\net版本\RX\RX\RXNET\obj\Debug\RX.pdb
+E:\我得文档\myDll\net版本\RX\RX\RXNET\bin\Debug\RX.dll
+E:\我得文档\myDll\net版本\RX\RX\RXNET\bin\Debug\RX.pdb

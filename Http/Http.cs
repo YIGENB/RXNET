@@ -241,7 +241,7 @@ public class Http
         request.Timeout = item.Timeout;
         request.KeepAlive = item.KeepAlive;
         request.ReadWriteTimeout = item.ReadWriteTimeout;
-        if (!string.IsNullOrWhiteSpace(item.Host))
+        if (!string.IsNullOrEmpty(item.Host))
         {
             request.Host = item.Host;
         }
