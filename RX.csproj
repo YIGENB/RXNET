@@ -67,6 +67,7 @@
     <Compile Include="TypeConversionExt.cs" />
     <Compile Include="TypeExt.cs" />
     <Compile Include="Valid.cs" />
+    <Compile Include="Web\Device.cs" />
     <Compile Include="Web\Domain.cs" />
     <Compile Include="Web\Download.cs" />
     <Compile Include="Web\IO.cs" />
